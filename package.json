@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "npm run build && next export"
+    "export": "npm run build"
   },
   "dependencies": {
     "@babel/core": "^7.17.9",
